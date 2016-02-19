@@ -1,0 +1,43 @@
+﻿Build started 12/11/2014 17:14:32.
+     1>Project "C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\SoftwareRasteriser\SoftwareRasteriser\SoftwareRasteriser.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Ob2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Asteroid.cpp Colour.cpp Keyboard.cpp main.cpp Matrix4.cpp Mesh.cpp Mouse.cpp SpaceShip.cpp StarField.cpp Window.cpp RenderObject.cpp SoftwareRasteriser.cpp Texture.cpp Vector3.cpp Vector4.cpp
+         Asteroid.cpp
+         Colour.cpp
+         Keyboard.cpp
+         main.cpp
+         Matrix4.cpp
+         Mesh.cpp
+         Mouse.cpp
+         SpaceShip.cpp
+         StarField.cpp
+         Window.cpp
+         RenderObject.cpp
+         SoftwareRasteriser.cpp
+         Texture.cpp
+         Vector3.cpp
+         Vector4.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\SoftwareRasteriser\Release\SoftwareRasteriser.exe" /NOLOGO Msimg32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\SoftwareRasteriser\Release\SoftwareRasteriser.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\SoftwareRasteriser\Release\SoftwareRasteriser.lib" /MACHINE:X86 /PROFILE /SAFESEH Release\Asteroid.obj
+         Release\Colour.obj
+         Release\Keyboard.obj
+         Release\main.obj
+         Release\Matrix4.obj
+         Release\Mesh.obj
+         Release\Mouse.obj
+         Release\SpaceShip.obj
+         Release\StarField.obj
+         Release\Window.obj
+         Release\RenderObject.obj
+         Release\SoftwareRasteriser.obj
+         Release\Texture.obj
+         Release\Vector3.obj
+         Release\Vector4.obj
+         Generating code
+         Finished generating code
+         SoftwareRasteriser.vcxproj -> C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\SoftwareRasteriser\Release\SoftwareRasteriser.exe
+     1>Done Building Project "C:\Users\SamAmco\Documents\Visual Studio 2013\Projects\SoftwareRasteriser\SoftwareRasteriser\SoftwareRasteriser.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.42
